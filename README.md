@@ -1,3 +1,4 @@
+Please unzip backend.zip and frontend.zip to get acccess to all the codes and files
 # IRIS Insight - Repository Analyzer
 
 GitGrade Hackathon Submission - AI + Code Analysis + Developer Profiling
@@ -84,3 +85,4 @@ Open `http://localhost:3000` and paste a repo URL.
    - Relevance: Checks for usage examples, CI/CD, Docker
 3. **Scores everything** - Weights: Code Quality 25%, Docs 20%, Tests 20%, Commits 15%, Structure 10%, Relevance 10%
 4. **Generates roadmap** - Suggests improvements based on what's missing
+
